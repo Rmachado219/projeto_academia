@@ -15,7 +15,8 @@ Criar um portfólio gratuito Allan.<br>
 [-] Criar login para acesso do admin;<br>
 [-] Criar Autorização;<br>
 [-] Criar validação;<br>
-[-] Tentar implementar o máximo de passos descristos do projeto, para melhor assimilação de conteúdo e aprendizado;
+[-] Praticar e implementar algo com o Js;<br>
+[-] Tentar implementar o máximo de passos descristos do projeto, para melhor assimilação de conteúdo e aprendizado;<br>
 <hr>
 
 Passo a passo:<br>
